@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/boom-bap-sketches-simple-synth-preview.mp3",
+  "preview_sha256": "31d0387fd9ea493277cb87bdd562512bed5395f1915407155f08d4054bdf3905",
+  "source_midi_path": "midi/bp01-paper-break/bp01-paper-break-combined.mid",
+  "source_midi_sha256": "7ae9f2c3b01a631eb59b75fe092b229ec82880156762e40bfa4fcdde2447752e",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "bp01",
+    "start_seconds": 0,
+    "end_seconds": 85.333
+  },
+  "measurement": {
+    "sample_peak": 0.114638,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+bp01,Paper Break,pack-local equal-tempered pitch collection,D,90,4/4,480,32,61440,midi/bp01-paper-break/bp01-paper-break-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bp02,Corner Notes,pack-local equal-tempered pitch collection,F,90,4/4,480,32,61440,midi/bp02-corner-notes/bp02-corner-notes-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bp03,Dust Sketch,pack-local equal-tempered pitch collection,G#,90,4/4,480,32,61440,midi/bp03-dust-sketch/bp03-dust-sketch-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bp04,Side B,pack-local equal-tempered pitch collection,D#,90,4/4,480,32,61440,midi/bp04-side-b/bp04-side-b-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
