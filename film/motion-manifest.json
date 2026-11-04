@@ -1,0 +1,26 @@
+{
+  "title": "Boom-Bap Sketches",
+  "study": "bp01",
+  "bpm": 90,
+  "source_audio": "preview/boom-bap-sketches-simple-synth-preview.mp3",
+  "source_audio_sha256": "31d0387fd9ea493277cb87bdd562512bed5395f1915407155f08d4054bdf3905",
+  "source_midi": "midi/bp01-paper-break/bp01-paper-break-combined.mid",
+  "source_midi_sha256": "7ae9f2c3b01a631eb59b75fe092b229ec82880156762e40bfa4fcdde2447752e",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "39f69dd0504bb6ed0c7485e6d16863fb61b55f6cd04d8ea88c79953f986a107c",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "a6b27aed5e8cdf159ec03ad8e0c99691ebc9e506be1543b0f02a8e5857f11e6c",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "3a5c29da8c9d874343a4ee8acd9570c9a10b487a5c0d3e75c099bd2bf9fbc1b5",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
