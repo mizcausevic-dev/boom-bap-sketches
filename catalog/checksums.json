@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 786,
-      "sha256": "9b0fe1ae8ca2bfa239772f3f0e2ef7d616fedbc8f1ff94af0fe97ebcd180bbab"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3530,
-      "sha256": "5184df56f6305c85b8d96eebf0d0fc7e3ce0a51c8d2eddab8e909421feda0c62"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -113,8 +103,8 @@
     },
     {
       "path": "downloads/boom-bap-sketches-midi.zip",
-      "bytes": 22900,
-      "sha256": "856cd59cc3cddb7e44c5155331df7fdd31e47a475d7c943ffd6b30a768952e69"
+      "bytes": 25095,
+      "sha256": "69138176da1a7d3165fe381a8266b4166f4027eecd4cb11bae6b5c5d6d0d953c"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -135,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 33818,
       "sha256": "04d90ccb6f360c6aa47001cb4e0628be82826a2a466a28d7eeac579e996f6631"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1238323,
-      "sha256": "3a5c29da8c9d874343a4ee8acd9570c9a10b487a5c0d3e75c099bd2bf9fbc1b5"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -168,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9204,
-      "sha256": "c989445cf25d4f1748daf25bb9774ea34eec233b7793ae2bcfec89de37f04233"
+      "bytes": 9394,
+      "sha256": "8a03d94159f4e0cdf34c6c31ad16f2582b27e9ce07c70a9103f9a3da70a457ef"
     },
     {
       "path": "midi/bp01-paper-break/bp01-paper-break-combined.mid",
@@ -312,6 +297,16 @@
       "sha256": "485efb3f102b84b1e0092c1086741bd444957ae7630374bb81f4ef1daea03412"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 786,
+      "sha256": "9b0fe1ae8ca2bfa239772f3f0e2ef7d616fedbc8f1ff94af0fe97ebcd180bbab"
+    },
+    {
       "path": "preview/boom-bap-sketches-simple-synth-preview.mp3",
       "bytes": 2061418,
       "sha256": "31d0387fd9ea493277cb87bdd562512bed5395f1915407155f08d4054bdf3905"
@@ -320,6 +315,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1130,
       "sha256": "7c74c636c38c9b9dfed5df7393ee3867cc03b4a6fed550656053f9a28d91942c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3645,
+      "sha256": "362f6f8593aa8f0a3a7840d79c3183a913fbd58b780900834a05b73e77bea3ed"
     },
     {
       "path": "social/instagram/caption.txt",
